@@ -5,14 +5,14 @@ education:
     - course: BS in Computer Science
       institution: University of Southern California
       year: 2015
-email: keithab@isi.edu
+email: fakeemail@isi.edu
 first_name: Buffy
 last_name: Summers
 organizations:
   - name: University of Southern California
     url: "https://www.usc.edu/"
 role: Student
-title:
+title: Buffy Summers
 user_groups:
   - Students
 ---
