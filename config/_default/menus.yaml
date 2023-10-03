@@ -5,17 +5,17 @@
 
 main:
   - name: Data Assessment
-    url: ./data
+    url: data
     weight: 20
   - name: Problem statement
-    url: ./problem-statement
+    url: problem-statement
     weight: 30
   - name: Approach
-    url: ./approach
+    url: approach
     weight: 40
-  - name: Outcomes
-    url: ./outcomes
+  - name: Results
+    url: results
     weight: 50
   - name: People
-    url: ./people
+    url: people
     weight: 60
