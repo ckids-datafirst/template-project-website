@@ -13,8 +13,8 @@ main:
   - name: Approach
     url: approach
     weight: 40
-  - name: Outcomes
-    url: outcomes
+  - name: Results
+    url: results
     weight: 50
   - name: People
     url: people

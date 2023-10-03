@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Template Team name # Website name
+title: Team name # Website name
 baseURL: "https://ckids-datafest.github.io/template-project-website" # Website URL
 
 ############################
