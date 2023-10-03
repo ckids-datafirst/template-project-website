@@ -7,7 +7,7 @@ main:
   - name: Data Assessment
     url: data
     weight: 20
-  - name: Problem statement
+  - name: Problem and Requirements
     url: problem-statement
     weight: 30
   - name: Approach
